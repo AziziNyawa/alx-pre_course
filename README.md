@@ -1,2 +1,2 @@
 My first readme
-i have updated 
+i have updated git hub
